@@ -1,5 +1,13 @@
-function Home () {
-    return <h1>Oi Ettore, vamos casar quando?</h1>
+function Home() {
+  return <h1>Home!</h1>;
+}
+
+function teste() {
+  console.log;
+}
+
+function teste2() {
+  console.log("indentação errada");
 }
 
 export default Home;
